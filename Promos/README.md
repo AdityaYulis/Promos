@@ -12,4 +12,4 @@ Memahami peran dan fungsi masing-masing bagian MVC. Serta untuk mengelompokkan f
 
 ### Tools
 - Visual Studio 2019
-- C# Langugage
+- C# Language
